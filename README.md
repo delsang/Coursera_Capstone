@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone 1
+first week's peer reviewed assessment
